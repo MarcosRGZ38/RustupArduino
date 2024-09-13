@@ -1,3 +1,8 @@
 /.venv/
 /.idea/
 /.vs/
+
+
+# Added by cargo
+
+/target
