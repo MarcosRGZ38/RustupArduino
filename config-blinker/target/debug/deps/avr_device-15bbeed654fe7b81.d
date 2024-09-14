@@ -1,0 +1,11 @@
+C:\Users\marco\Documents\GitHub\RustupArduino\rustupArduino\target\debug\deps\libavr_device-15bbeed654fe7b81.rmeta: C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avr-device-0.3.4\src\lib.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avr-device-0.3.4\src\asm.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avr-device-0.3.4\src\interrupt.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avr-device-0.3.4\src\generic.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avr-device-0.3.4\src\devices\mod.rs
+
+C:\Users\marco\Documents\GitHub\RustupArduino\rustupArduino\target\debug\deps\libavr_device-15bbeed654fe7b81.rlib: C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avr-device-0.3.4\src\lib.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avr-device-0.3.4\src\asm.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avr-device-0.3.4\src\interrupt.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avr-device-0.3.4\src\generic.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avr-device-0.3.4\src\devices\mod.rs
+
+C:\Users\marco\Documents\GitHub\RustupArduino\rustupArduino\target\debug\deps\avr_device-15bbeed654fe7b81.d: C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avr-device-0.3.4\src\lib.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avr-device-0.3.4\src\asm.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avr-device-0.3.4\src\interrupt.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avr-device-0.3.4\src\generic.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avr-device-0.3.4\src\devices\mod.rs
+
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avr-device-0.3.4\src\lib.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avr-device-0.3.4\src\asm.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avr-device-0.3.4\src\interrupt.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avr-device-0.3.4\src\generic.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avr-device-0.3.4\src\devices\mod.rs:
