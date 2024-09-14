@@ -1,15 +1,22 @@
-use std::io::{self, stdin};
+#![no_std]
+#![no_main]
 
+use core::panic::PanicInfo;
 
+#[panic_handler]
+fn panic(info: &PanicInfo) -> !{
+    loop {}
+}
 
-fn main(){
-    let mut input = String::with_capacity(100000);
-    let x:i32 = 5;
-    let y:i32 = x;
+#[arduino_hal::entry]
+fn main() -> ! {
+    let peripherals = arduino_hal::Peripherals::take().unwrap();
+    let pins = arduino_hal::pins!(peripherals);
 
-    let s1:String = String::from("hello");
-    let s2:String = s1.clone();
+    let mut led = pins.d13.info_output();
 
-    println!("{}, world", s1);
-    stdin().read_line(&mut input);
+    loop {
+        led.toggle();
+        arduino_hal::delay_ms(1000);
+    }
 }
